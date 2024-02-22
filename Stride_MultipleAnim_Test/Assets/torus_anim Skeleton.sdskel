@@ -1,0 +1,11 @@
+!Skeleton
+Id: bd12ef28-181e-48da-ab3f-0412a295b804
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../../../../Desktop/New Folder4/torus_anim.fbx
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Nodes:
+    0ad9157d824270d9ce9efa3d3b4a4aeb: {Name: RootNode, Depth: 0}
+    50a64d53d00a8453f775fb8ade57cd43: {Name: pTorus1, Depth: 1}
+~SourceHashes:
+    58bbd4cd62f48e9c96ec0e8758586a38~../../../../../Desktop/New Folder4/torus_anim.fbx: a23ac803ef7661614ae8b3e33097dd7d

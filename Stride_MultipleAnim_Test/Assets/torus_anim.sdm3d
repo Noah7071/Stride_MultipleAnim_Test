@@ -1,0 +1,15 @@
+!Model
+Id: 1d2d1e31-ce3e-4c73-9b9e-c56670410b5b
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../../../../Desktop/New Folder4/torus_anim.fbx
+Skeleton: bd12ef28-181e-48da-ab3f-0412a295b804:torus_anim Skeleton
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    c2362bc6139d0ca6c9c6d3c6d0c2befc:
+        Name: standardSurface1
+        MaterialInstance:
+            Material: 37788485-f54b-453d-ad8a-aa5921e11b63:standardSurface1
+Modifiers: {}
+~SourceHashes:
+    d4c3c2893687a04157fe0b0dfd6a953f~../../../../../Desktop/New Folder4/torus_anim.fbx: a23ac803ef7661614ae8b3e33097dd7d
